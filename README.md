@@ -7,7 +7,7 @@ https://cezardev07.github.io/mapa-dev-week/
 
 </br>
 
-# <h3> Esse Projeto foi criando na imersão mapa dev week, junto com os gêmeos do canal Dev em Dobro 👨‍💻</h3>
+# <h3> Esse Projeto foi criado na imersão mapa dev week, junto com os gêmeos do canal Dev em Dobro 👨‍💻</h3>
 <hr></br>
 <h2>⚙️ Tecnologias usadas nesse projeto ⚙️<h2>
 <ul>
