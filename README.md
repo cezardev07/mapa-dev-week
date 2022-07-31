@@ -3,8 +3,7 @@
 https://cezardev07.github.io/mapa-dev-week/
 
 </br>
-
-![](src/img/imgreadme.png)
+<a href="https://cezardev07.github.io/mapa-dev-week/"><img src="src/img/imgreadme.png"></a>
 
 </br>
 
